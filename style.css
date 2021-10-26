@@ -1,0 +1,10 @@
+.listaMenu{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0% 0% 0% 0%;
+}
+
+.listaMenu li{
+    display: flex;
+    padding: 0% 5% 0% 5%;
+}
